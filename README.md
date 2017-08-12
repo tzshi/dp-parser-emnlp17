@@ -5,7 +5,7 @@ This is the repo for the code to reproduce the experiments and results of our EM
 For more up-to-date parser under maintenance, please see <https://github.com/tzshi/cdparser>.
 
 See also our system entry [C2L2](https://github.com/CoNLL-UD-2017/C2L2) to the CoNLL 2017 Shared Task on parsing Universal Dependencies, which applied the same algorithms as described in the EMNLP paper.
-The system won second place in overall evaluation, and the first place in the category of surprise langugaes.
+The system won second place in overall evaluation, and the first place in the category of surprise languages.
 
 # Requirements
 
@@ -34,4 +34,4 @@ If you make use of this software in your research, we appreciate you citing the 
 
 # Acknowledgement
 
-When implementing the first-order graph-based algorithm, we referenced the BiST parser: <https://github.com/elikip/bist-parser>.
+During implementation, we referenced the BiST parser: <https://github.com/elikip/bist-parser>.
